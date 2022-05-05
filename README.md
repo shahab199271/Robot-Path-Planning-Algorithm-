@@ -1,6 +1,6 @@
 # Sampling-Based Mobile Robot Path Planning Algorithm by Dijkstra, Astar and Dynamic Programming
 
-In this repository, we briefly presented full source code of Dijkstra, Astar, and Dynamic Programming approach to finding the best route from the starting node to the end node on the 2D graph. We also provide the main script which performs these algorithms on the given map.
+In this repository, and Dynamic Programming approach to finding the best route from the starting node to the end node on the 2D graph. We also provide the main script which performs these algorithms on the given map.
 
 ## Map Definiton
 We already provide a sample map creating in map_definition.m source code. We defined all closed polygon in that maps which shows the obstacles. In the sample map, there are 13 different obstacles whose edges are defined by given x and y coordinates. One sample is shown by followings;
