@@ -26,7 +26,7 @@ We tested the mentioned algorithms performance some certain start and endpoint. 
 startp=[5, 29];
 endp=[29, 20];
 ```
-Then we tested that 102 number of noded graph path planning via Dijkstra, Astar, and Dynamic Programming. Here are the all three methods' planned path and their costs.
+Then we tested that 102 number of noded graph path planning, and Dynamic Programming. Here are the all three methods' planned path and their costs.
 
 <p align="center">
   <img src="Output/astar.jpg" width="270"/>  
